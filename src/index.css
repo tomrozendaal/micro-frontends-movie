@@ -1,0 +1,8 @@
+#browse {
+  background: lightgrey;
+}
+
+#browse .card {
+  margin-top: 15px;
+  cursor: pointer;
+}
