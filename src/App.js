@@ -16,8 +16,10 @@ function App(props) {
         <Jumbotron>
           <h1>{movie.title}</h1>
           <p>
-            This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured
-            content or information.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt dui sapien, quis facilisis nisi
+            imperdiet vitae. Vestibulum finibus magna a diam pulvinar, sit amet pulvinar lacus tincidunt. Nulla iaculis
+            auctor metus nec vehicula. Mauris a purus eu risus semper egestas. Nunc ultricies odio felis, vitae
+            dignissim mauris dapibus nec.
           </p>
           <iframe
             className="player"
