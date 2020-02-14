@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { Container, Jumbotron } from 'react-bootstrap'
 import { getMovie } from './movie-service'
-import './App.css'
 
 function App(props) {
   const [movie, setMovie] = useState(null)

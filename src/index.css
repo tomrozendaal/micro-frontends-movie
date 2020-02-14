@@ -1,8 +1,4 @@
-#browse {
-  background: lightgrey;
-}
-
-#browse .card {
-  margin-top: 15px;
-  cursor: pointer;
+#movie .player {
+  width: 100%;
+  height: 500px;
 }
